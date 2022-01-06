@@ -15,9 +15,13 @@ análise de evasão de clientes"**
 
 ##### 📫 Onde vcê pode me encontrar? 
 
+- [Instagram](https://www.instagram.com/crodriguesbianca/)  
+- [Linkedinho](linkedin.com/in/crodriguesbianca)  
+- [Blog no Medium](linkedin.com/in/crodriguesbianca)  
+- [Portfólio](https://rodriguesbianca.netlify.app/)
+
 ##
 
-  
  <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bia-Vscode" height="30" width="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
