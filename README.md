@@ -5,7 +5,7 @@
  </div>
 
 - 🔭 Hoje eu sou Graduanda em Estatística pela Universidade Federal de Campina Grande 
-- 🌱 Buscando sempre aprender sobre Ciência de dados
+- 🌱 Aprendendo sobre Ciência de dados com ênfase em *Marketing*
 - 😄 Pronomes: ela/dela
 
 ##### Atualmente
@@ -17,7 +17,7 @@ análise de evasão de clientes"**
 
 - [Instagram](https://www.instagram.com/crodriguesbianca/)  
 - [Linkedinho](linkedin.com/in/crodriguesbianca)  
-- [Blog no Medium](linkedin.com/in/crodriguesbianca)  
+- [Blog no Medium](https://medium.com/@c.rodriguesbianca)  
 - [Portfólio](https://rodriguesbianca.netlify.app/)
 
 ##
