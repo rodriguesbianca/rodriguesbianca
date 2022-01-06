@@ -1,5 +1,9 @@
 ## Oii, eu sou Bianca Rodrigues 😊
 
+ <div style="display: inline_block"><br>
+    <img align="right" alt="Rafa-pic" height="400" style="border-radius:50px;" src="perfil-github.png">
+ </div>
+
 - 🔭 Hoje eu sou Graduanda em Estatística pela Universidade Federal de Campina Grande 
 - 🌱 Buscando sempre aprender sobre Ciência de dados
 - 😄 Pronomes: ela/dela
@@ -13,12 +17,6 @@ análise de evasão de clientes"**
 
 ##
 
-
-<div align="center">
-  <a href="https://github.com/rodriguesbianca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodriguesbianca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguesbianca&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
