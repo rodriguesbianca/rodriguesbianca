@@ -5,7 +5,7 @@
  </div>
 
 - 🔭 Hoje eu sou Graduanda em Estatística pela Universidade Federal de Campina Grande 
-- 🌱 Aprendendo sobre Ciência de dados com ênfase em *Marketing* de relacionamento.
+- 🌱 Aprendendo sobre Ciência de dados com ênfase em aplicações em *Marketing* de relacionamento.
 - 😄 Pronomes: ela/dela
 
 ##### 📌 Atualmente
@@ -22,8 +22,8 @@ análise de evasão de clientes"**
 
 #### ❔ curiosidades: 
 - Eu aaamo desenhar e bordar 💜 Você pode conhecer o meu atelier clicando [aqui](https://www.instagram.com/vezesdoisbordados/);
-- Meu livro preferido é Feliz ano velho - do Marcelo Rubens Paiva;
-- Mantenho um diário sobre estudos e a vida, isso me ajuda a melhorar minha escrita e *storytelling*
+- Meu livro preferido é "Feliz ano velho" do Marcelo Rubens Paiva;
+- Mantenho um diário sobre estudos e a vida, isso me ajuda a melhorar o meu *storytelling* :)
 
 ##
 
