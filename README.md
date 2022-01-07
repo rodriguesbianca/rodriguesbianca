@@ -4,6 +4,7 @@
     <img align="right" alt="Bia-pic" height="400" style="border-radius:50px;" src="perfil-github.png">
  </div>
 
+
 - 🔭 Hoje eu sou Graduanda em Estatística pela Universidade Federal de Campina Grande 
 - 🌱 Aprendendo sobre Ciência de dados com ênfase em aplicações em *Marketing* de relacionamento.
 - 😄 Pronomes: ela/dela
