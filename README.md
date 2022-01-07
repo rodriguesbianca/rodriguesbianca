@@ -1,7 +1,7 @@
 ## Oii, eu sou Bianca Rodrigues 😊
 
  <div style="display: inline_block"><br>
-    <img align="right" alt="Rafa-pic" height="400" style="border-radius:50px;" src="perfil-github.png">
+    <img align="right" alt="Bia-pic" height="400" style="border-radius:50px;" src="perfil-github.png">
  </div>
 
 - 🔭 Hoje eu sou Graduanda em Estatística pela Universidade Federal de Campina Grande 
