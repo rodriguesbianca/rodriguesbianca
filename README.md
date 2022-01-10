@@ -17,8 +17,7 @@ análise de evasão de clientes"**
 #### 📫 Onde você pode me encontrar?
 
 - [Instagram](https://www.instagram.com/crodriguesbianca/)  
-- [Linkedinho](https://www.linkedin.com/in/bianca-rodrigues-1475aa201/)  
-- [Blog no Medium](https://medium.com/@c.rodriguesbianca)  
+- [Linkedinho](https://www.linkedin.com/in/bianca-rodrigues-1475aa201/)   
 - [Portfólio](https://rodriguesbianca.netlify.app/)
 
 #### ❔ curiosidades: 
