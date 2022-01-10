@@ -5,7 +5,7 @@
  </div>
 
 
-- 🔭 Hoje eu sou Graduanda em Estatística pela Universidade Federal de Campina Grande 
+- 🔭 Graduanda em Estatística pela Universidade Federal de Campina Grande - UFCG
 - 🌱 Aprendendo sobre Ciência de dados com ênfase em aplicações em *Marketing* de relacionamento.
 - 😄 Pronomes: ela/dela
 
