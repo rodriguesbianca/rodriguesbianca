@@ -6,9 +6,8 @@
  </div>
 
 
-- 🔭 Graduanda em Estatística pela Universidade Federal de Campina Grande - UFCG
+- 🔭 Graduada em Estatística pela Universidade Federal de Campina Grande - UFCG
 - 🌱 Aprendendo sobre Ciência de dados com ênfase em aplicações em *Marketing* de relacionamento.
-- 😄 Pronomes: ela/dela
 
 #### 📌 Atualmente
 
@@ -19,14 +18,7 @@ análise de evasão de clientes"**
 
 - [Instagram](https://www.instagram.com/crodriguesbianca/)  
 - [Linkedinho](https://www.linkedin.com/in/bianca-rodrigues-1475aa201/)   
-- [Portfólio](https://rodriguesbianca.netlify.app/)
-
-#### ❔ curiosidades: 
-- Eu aaamo desenhar e bordar 💜 Você pode conhecer o meu atelier clicando [aqui](https://www.instagram.com/vezesdoisbordados/);
-- Meu livro preferido é "Feliz ano velho" do Marcelo Rubens Paiva;
-- Mantenho um diário sobre estudos e a vida, isso me ajuda a melhorar o meu *storytelling* :)
-
-##
+- [Site pessoal](https://rodriguesbianca.netlify.app/) (em contrução) 
 
 
  <div style="display: inline_block"><br>
