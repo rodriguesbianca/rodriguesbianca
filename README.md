@@ -18,7 +18,7 @@ análise de evasão de clientes"**
 
 - [Instagram](https://www.instagram.com/crodriguesbianca/)  
 - [Linkedinho](https://www.linkedin.com/in/bianca-rodrigues-1475aa201/)   
-- [Site pessoal](https://rodriguesbianca.netlify.app/) (em contrução) 
+- [Site pessoal](https://rodriguesbianca.netlify.app/) (em construção) 
 
 
  <div style="display: inline_block"><br>
