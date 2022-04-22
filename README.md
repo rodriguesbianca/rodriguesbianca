@@ -14,7 +14,7 @@
 - Estou trabalhando no meu TCC - Trabalho de Conclusão de Curso 🎓, cujo o tema é **"Isso é um adeus ou um até logo? Modelagem preditiva para
 análise de evasão de clientes"**
 
-#### 📫 Onde você pode me encontrar?
+#### 📫 Onde você pode me encontrar: 
 
 - [Instagram](https://www.instagram.com/crodriguesbianca/)  
 - [Linkedinho](https://www.linkedin.com/in/bianca-rodrigues-1475aa201/)   
