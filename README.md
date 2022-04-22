@@ -1,13 +1,8 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou a Bia!
 
- <div style="display: inline_block"><br>
-    <img align="right" alt="Bia-pic" height="400" style="border-radius:50px;" src="perfil-github.png">
- </div>
-
-
 - 🔭 Graduada em Estatística pela Universidade Federal de Campina Grande - UFCG
-- 🌱 Aprendendo sobre Ciência de dados com ênfase em aplicações em *Marketing* de relacionamento.
+- 🌱 Aprendendo sobre Ciência de dados e buscando sempre compartilhar um conteúdo legal sobre esse universo.
 
 #### 📌 Atualmente
 
