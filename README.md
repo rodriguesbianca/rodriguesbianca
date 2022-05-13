@@ -6,8 +6,8 @@
 
 #### 📌 Atualmente
 
-- Estou trabalhando no meu TCC - Trabalho de Conclusão de Curso 🎓, cujo o tema é **"Isso é um adeus ou um até logo? Modelagem preditiva para
-análise de evasão de clientes"**
+- Faço parte da comunidade **Mulheres em dados**;
+- 
 
 #### 📫 Onde você pode me encontrar: 
 
