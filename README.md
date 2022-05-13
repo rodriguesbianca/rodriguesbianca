@@ -7,7 +7,6 @@
 #### 📌 Atualmente
 
 - Faço parte da comunidade **Mulheres em dados**;
-- 
 
 #### 📫 Onde você pode me encontrar: 
 
