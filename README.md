@@ -1,5 +1,5 @@
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px"> Olá, eu sou a Bia!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"> Olá, eu sou a Bia!
 
 - 🔭 Graduada em Estatística pela Universidade Federal de Campina Grande - UFCG
 - 🌱 Aprendendo sobre Ciência de dados e buscando sempre compartilhar um conteúdo legal sobre esse universo.
