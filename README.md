@@ -2,17 +2,18 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"> Olá, eu sou a Bia!
 
 - 🔭 Graduada em Estatística pela Universidade Federal de Campina Grande - UFCG
-- 🌱 Aprendendo sobre Ciência de dados e buscando sempre compartilhar um conteúdo legal sobre esse universo.
 
 #### 📌 Atualmente
 
+- Sou analista de dados *freelancer*;
 - Faço parte da comunidade **Mulheres em dados**;
+
 
 #### 📫 Onde você pode me encontrar: 
 
 - [Instagram](https://www.instagram.com/crodriguesbianca/)  
 - [Linkedinho](https://www.linkedin.com/in/bianca-rodrigues-1475aa201/)   
-- [Site pessoal](https://rodriguesbianca.netlify.app/) (em construção) 
+- [Site pessoal](https://rodriguesbianca.netlify.app/)
 
 
  <div style="display: inline_block"><br>
